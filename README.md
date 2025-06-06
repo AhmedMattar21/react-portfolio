@@ -1,2 +1,1 @@
-# react-portfolio
-Powerful portfolio created with React
+# My Portfolio
